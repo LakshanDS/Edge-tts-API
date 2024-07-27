@@ -48,3 +48,4 @@ if __name__ == "__main__":
         text_content = file.read()
     
     asyncio.run(generator(text_content, "en-US-BrianMultilingualNeural", "+7%", 1))
+    
