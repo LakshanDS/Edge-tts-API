@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+moviepy
+edge-tts
+pydantic
